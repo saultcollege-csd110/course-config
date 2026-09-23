@@ -8,5 +8,15 @@
       "github": "rmartin-sc"
     }
   ],
-  "branch-pattern": "lab-{lab}"
+  "labs": [
+    { "lab": "1", "repo": "csd110-26f-lab-1", "branch": "lab-1" }
+    { "lab": "2", "repo": "csd110-26f-lab-2", "branch": "lab-2" }
+    { "lab": "3", "repo": "csd110-26f-lab-3", "branch": "lab-3" }
+    { "lab": "4", "repo": "csd110-26f-lab-4", "branch": "lab-4" }
+    { "lab": "5", "repo": "csd110-26f-lab-5", "branch": "lab-5" }
+    { "lab": "6", "repo": "csd110-26f-lab-6", "branch": "lab-6" }
+    { "lab": "7", "repo": "csd110-26f-lab-7", "branch": "lab-7" }
+    { "lab": "8", "repo": "csd110-26f-lab-8", "branch": "lab-8" }
+    { "lab": "9", "repo": "csd110-26f-lab-9", "branch": "lab-9" }
+  ]
 }
